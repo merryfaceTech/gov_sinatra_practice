@@ -6,9 +6,12 @@
   "scripts": {
     "test": "run test"
   },
-  "author": "",
+  "author": "Owen Mcfuffly",
   "license": "ISC",
   "dependencies": {
     "govuk-frontend": "^4.0.1"
+  },
+  "devDependencies": {
+    "sass": "^1.49.9"
   }
 }
